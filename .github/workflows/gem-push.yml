@@ -1,2 +1,1 @@
-- name: Setup Ruby, JRuby and TruffleRuby
-  uses: ruby/setup-ruby@v1.151.0
+blank_issues_enabled: false
